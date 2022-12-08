@@ -12,7 +12,7 @@ https://www.nxn.se/single-cell-studies
 https://www.nxn.se/single-cell-studies/gui
 
 ![image](plots/sc_studies_over_time.png) 
-**Note**: The code for the above plot was adapted from [this notebook](https://github.com/pachterlab/kallistobustools/blob/master/docs/tutorials/scRNA-seq_intro/python/scRNA-seq_intro.ipynb) which is part of the tutorials on the [kallistobus.tools](https://www.kallistobus.tools/) website: https://www.kallistobus.tools/tutorials/scrna-seq_intro/python/scrna-seq_intro/.
+**Note**: The code for the above plot was adapted from [this notebook](https://github.com/pachterlab/kallistobustools/blob/master/docs/tutorials/scRNA-seq_intro/python/scRNA-seq_intro.ipynb) by [@sinabooeshaghi](https://github.com/sbooeshaghi/), which is part of the tutorials on the [kallistobus.tools](https://www.kallistobus.tools/) website: https://www.kallistobus.tools/tutorials/scrna-seq_intro/python/scrna-seq_intro/.
 
 ![image](plots/sc_cells_over_time.png)
 
