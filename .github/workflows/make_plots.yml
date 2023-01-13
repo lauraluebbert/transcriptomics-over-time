@@ -44,6 +44,7 @@ jobs:
           timestamp=$(date -u)
           git commit -m "Latest data: ${timestamp}" || exit 0
           git push
+          
       - name: Clean up
         run: |
           rm transcriptomics_studies_over_time.html
