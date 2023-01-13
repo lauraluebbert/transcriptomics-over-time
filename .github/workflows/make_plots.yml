@@ -33,7 +33,7 @@ jobs:
           python -m pip install -r requirements.txt
           
       - name: Execute notebook
-        run: jupyter nbconvert --to 'html' --execute single_cell_studies_over_time.ipynb
+        run: jupyter nbconvert --to 'html' --execute transcriptomics_studies_over_time.ipynb
       
       - name: Commit and push new data
         run: |-
@@ -46,4 +46,4 @@ jobs:
           git push
       - name: Clean up
         run: |
-          rm single_cell_studies_over_time.html
+          rm transcriptomics_studies_over_time.html
