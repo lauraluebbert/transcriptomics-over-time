@@ -1,4 +1,5 @@
 # transcriptomics-over-time
+![status](https://github.com/lauraluebbert/transcriptomics-over-time/workflows/make_plots/badge.svg)
 
 This repository generates plots showing the increase in studies using transcriptomics technologies over time. The plots are automatically updated every week. Please cite the listed data sources.
 
